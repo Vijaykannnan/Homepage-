@@ -207,15 +207,9 @@ footer {
   background-color: #040720;
   width: 100%;
 }
----------------------------Media
+/*---------------------------Media
   queries------------------------------------------*/
-  @media
-  (min-width: 760px)
-  and
-  (max-width: 803px) {
-  .header-card {
-  }
-}
+
 @media (max-width: 760px) {
   .designs .design-two {
     position: relative;
@@ -290,7 +284,7 @@ footer {
     margin-left: 15px;
   }
 }
-@media (max-width: 975px) {
+@media (max-width: 980px) {
   nav ul {
     margin-left: 40%;
   }
